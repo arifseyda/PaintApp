@@ -1,6 +1,6 @@
 # Paint Application 
 
-This project develops with C#.
+This project developed with C#.
 
 This project is so like Paint application. You can see the project theme below.  
 
